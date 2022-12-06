@@ -9,4 +9,6 @@ Sou estudante da  Universidade Anhembi Morumbi com bacharelado Sistemas De Infor
 
 ### Minhas especialidades:
 
-### Linguagens <img src="{https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white}"
+
+
+### Linguagens <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
